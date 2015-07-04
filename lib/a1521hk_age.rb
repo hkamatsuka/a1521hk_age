@@ -1,4 +1,4 @@
-#require "a1521hk_age/version"
+require "a1521hk_age/version"
 require "date"
 
 class Age
